@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/static/js/main.f8304be8.chunk.js",
-    "main.js.map": "/static/js/main.f8304be8.chunk.js.map",
+    "main.js": "/static/js/main.af0a8bbd.chunk.js",
+    "main.js.map": "/static/js/main.af0a8bbd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ca4f34ed.js",
     "runtime-main.js.map": "/static/js/runtime-main.ca4f34ed.js.map",
     "static/js/2.3be9cbd8.chunk.js": "/static/js/2.3be9cbd8.chunk.js",
     "static/js/2.3be9cbd8.chunk.js.map": "/static/js/2.3be9cbd8.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.59d3481258f747c5060414eacb9cca07.js": "/precache-manifest.59d3481258f747c5060414eacb9cca07.js",
+    "precache-manifest.6e01911a595ec1399f077fb0f918659d.js": "/precache-manifest.6e01911a595ec1399f077fb0f918659d.js",
     "service-worker.js": "/service-worker.js",
     "static/js/2.3be9cbd8.chunk.js.LICENSE.txt": "/static/js/2.3be9cbd8.chunk.js.LICENSE.txt",
-    "static/media/favicon.png": "/static/media/favicon.747c184c.png"
+    "static/media/favicon.png": "/static/media/favicon.1872321d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ca4f34ed.js",
     "static/js/2.3be9cbd8.chunk.js",
-    "static/js/main.f8304be8.chunk.js"
+    "static/js/main.af0a8bbd.chunk.js"
   ]
 }
